@@ -1,6 +1,6 @@
 # Hi 😸
 
-<style type="text/css">
+<!--style type="text/css">
   .test {
     background: repeating-linear-gradient(
       45deg,
@@ -10,10 +10,10 @@
       #56e8ff 20px
     );
   }
-</style>
+</style-->
 
-<p class='test'>hello</p>
+<!--p class='test'>hello</p-->
 
-<script type="text/javascript">
+<!--script type="text/javascript">
   document.querySelector('p').innerText = 'replacement';
-</script>
+</script-->
