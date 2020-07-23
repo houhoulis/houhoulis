@@ -1,13 +1,16 @@
 ### ✨ Hi ✨
 
 | 😢 | 💜 |
+| -- | -- |
 | 😸 | 🤔 |
 
+
+<p class="bg-green-light">hello</p>
 ## Tim's Community Chess Tournament
 
 **Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black piece.
 
-<table>
+<table class="bg-purple">
   <thead>
     <tr>
         <td></td>
@@ -25,14 +28,14 @@
     <tr>
 <td>-</td>
 <td>-</td>
-<td>-</td>
+<td class="bg-red">-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td></tr>
-<tr>
+<tr class="bg-white">
 <td class="bg-white">8</td>
 <td class="bg-gray">![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png)</td>
 <td class="bg-white">![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png)</td>
@@ -43,7 +46,7 @@
 <td class="bg-gray">![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png)</td>
 <td class="bg-white">![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png)</td>
 </tr>
-<tr>
+<tr class="bg-white">
 <td class="bg-white">7</td>
 <td class="bg-white">![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png)</td>
 <td class="bg-gray">![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png)</td>
