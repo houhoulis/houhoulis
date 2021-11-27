@@ -1,13 +1,11 @@
 # ✨ Hi ✨
 
-I'm Chris. Pronouns: he/him.
+I'm Chris. Pronouns: he/him. Senior software engineer at [@DockYard](https://github.com/DockYard).
 
 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 | 👍 | 💜 | 😸 | 🤔 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
-## Employment status
-
-Available for full-time employment as a full-stack/backend Ruby/Rails engineer.
+&nbsp;
 
 &nbsp;
 
